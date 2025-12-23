@@ -5,7 +5,7 @@ LICENSE = "MIT"
 python do_display_banner() {
     bb.plain("***********************************************");
     bb.plain("*                                             *");
-    bb.plain("*  PATHCED some	again	                     *");
+    bb.plain("*  PATHCED some	again	some changes        *");
     bb.plain("*                                             *");
     bb.plain("***********************************************");
 }
