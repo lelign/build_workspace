@@ -1,0 +1,5 @@
+u-boot-socfpga|appends/u-boot-socfpga_v2025.07.bbappend|9428fccde8c7d17d01c7cc491ae7b914
+example|appends/example_0.1.bbappend|a4a49fd627ad340718c0fdd89869d8aa
+my-new-receipt|recipes/my-new-receipt/my-new-receipt.bb|15029a4ac5a0fc9b9bf92d230e0afa84
+my-new-receipt|appends/my-new-receipt.bbappend|954b66690b830bdae4feafee62707a4e
+hello-world|appends/hello-world_1.0.0.bbappend|babd2df8a018b486af48d3f0906b4304
